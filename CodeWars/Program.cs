@@ -1,12 +1,8 @@
 ﻿using BenchmarkDotNet.Running;
 using CodeWarts.Infrastructure.Practice.Benchmarks;
 
-// BenchmarkRunner.Run<TheFastestsSumBenchmark>();
+ BenchmarkRunner.Run<ClosestPairToNumBenchmark>();
 
 
-
-
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.ReadKey();
